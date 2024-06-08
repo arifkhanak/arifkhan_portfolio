@@ -181,7 +181,7 @@ export class ProfileService {
     },
 
   ]
-  about2 = `Software Developer with 2.5+ years of experience .
+  about2 = `Senior Angular UI Developer with 2.5+ years of experience .
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
   Expertise in Angular 2+ All versions, React, Javascript,  Node JS and UI with Responsive Designs .
   Have good understanding of Python, Jquery, Bootstrap, MongoDB, Firebase, and MYSQL`
@@ -261,7 +261,7 @@ Completed my Secondary school with 84%.`
       company: 'Crest Data System',
       location: 'Ahmedabad',
       timeline: 'Aug 2021 to Present',
-      role: 'Software Developer',
+      role: 'Senior Angular UI Developer',
       work: 'Working as a full stack developer .Responsible for handling the UI in React and Managing the api calls in python Flask.'
 
     },
@@ -270,7 +270,7 @@ Completed my Secondary school with 84%.`
       company: 'Indianic Info Tech',
       location: 'Ahmedabad',
       timeline: 'Feb 2021 to June 2021',
-      role: 'Software Developer',
+      role: 'Senior Angular UI Developer',
       work: `Technologies : Angular , Node JS , MongoDB .
       Worked on the web application built in Angular for different business and Campaigns .
       Contributed on developing the admin dashboard with different charts and insights for the application.`
