@@ -181,7 +181,7 @@ export class ProfileService {
     },
 
   ]
-  about2 = `Senior Angular UI Developer with 2.5+ years of experience .
+  about2 = `Senior Angular UI Developer with 7+ years of experience .
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
   Expertise in Angular 2+ All versions, React, Javascript,  Node JS and UI with Responsive Designs .
   Have good understanding of Python, Jquery, Bootstrap, MongoDB, Firebase, and MYSQL`
