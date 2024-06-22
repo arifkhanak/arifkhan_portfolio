@@ -247,7 +247,7 @@ export class ProfileService {
 
     {
       'id': '6',
-      'skill': 'FIGMA AND BALSAMIQ',
+      'skill': 'PHOTOSHOP, FIGMA AND BALSAMIQ',
       'progress': '75%'
     }
   ];
