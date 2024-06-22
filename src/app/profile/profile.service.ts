@@ -202,18 +202,18 @@ export class ProfileService {
   skillsData: any = [
     {
       'id': '1',
-      'skill': 'ANGULAR 1.X AND ANGULAR 2+',
+      'skill': 'ANGULAR 1.X, ANGULAR 2+',
       'progress': '95%'
     },
     {
       'id': '3',
-      'skill': 'JAVASCRIPT, JQUERY AND CHARTJS',
+      'skill': 'JAVASCRIPT, JQUERY, CHARTJS',
       'progress': '90%'
     },
 
     {
       'id': '8',
-      'skill': 'HMTL5, BOOTSTRAP4 AND CSS3',
+      'skill': 'HMTL5, BOOTSTRAP4, CSS3',
       'progress': '95%'
     },
     {
@@ -234,20 +234,20 @@ export class ProfileService {
     },
     {
       'id': '4',
-      'skill': 'SQL , MYSQL, MONOGO DB, FIREBASE',
+      'skill': 'SQL, MYSQL, MONOGO DB, FIREBASE',
       'progress': '70%'
     },
 
     {
       'id': '6',
-      'skill': 'JAVA , CORE JAVA , JSP AND SERVLET',
+      'skill': 'JAVA, CORE JAVA, JSP, SERVLET',
       'progress': '70%'
     }
     ,
 
     {
       'id': '6',
-      'skill': 'PHOTOSHOP, FIGMA AND BALSAMIQ',
+      'skill': 'PHOTOSHOP, FIGMA, BALSAMIQ',
       'progress': '75%'
     }
   ];
