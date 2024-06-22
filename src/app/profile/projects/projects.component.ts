@@ -16,7 +16,7 @@ export class ProjectsComponent implements OnInit {
     this.projects = this.profileService.getProjects()
     console.log(this.projects)
     this.config = {
-      itemsPerPage: 6,
+      itemsPerPage: 4,
       currentPage: 1,
       totalItems: this.projects.length
     };
